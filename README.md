@@ -1,6 +1,4 @@
 # Dataplay
-fezf
-zfez
-fez
-fez
-fezfaez
+npm install
+
+npm run watch
